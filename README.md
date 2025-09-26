@@ -38,6 +38,9 @@ public class Hola {
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
 
+[Ver historial de cambios](changelog.md)
+
+
 # Ticket Logger 
 
 Aplicación web para la gestión de incidencias.
