@@ -38,7 +38,7 @@ public class Hola {
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
 
-[Ver historial de cambios](changelog.md)
+[Ver historial de cambios](CHANGELOG.md)
 
 
 # Ticket Logger 
